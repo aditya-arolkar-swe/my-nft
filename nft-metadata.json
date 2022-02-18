@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Golden Retriever x Poodle"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Hair color",
+      "value": "Black"
+    }
+  ],
+  "description": "Angie <3",
+  "image": "https://gateway.pinata.cloud/ipfs/QmRSAhKnqQCUf9pEk21MEakAR5YPcxHA27kCCT1hYTSyCX",
+  "name": "Angie"
+}
